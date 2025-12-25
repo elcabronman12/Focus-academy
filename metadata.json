@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EduTrack Pro - Offline Admin Portal",
+  "description": "A high-performance offline school management system for Admin and Deans to track teachers, 5-period daily schedules, whiteboard lesson photos, and homework logs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
